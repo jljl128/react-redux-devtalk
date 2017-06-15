@@ -1,0 +1,10 @@
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+  text-transform: none;
+  letter-spacing: -0.03em;
+  font-family: "Montserrat", sans-serif;
+}
