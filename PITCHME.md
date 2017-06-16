@@ -178,7 +178,7 @@ const App = () => {
 - Conditionals, if/else
 - Arrays, loops
 
-<span style="font-size:0.75em"><a href="https://jsbin.com/tapeqimobu/edit?js,output" target="_blank">demo link</a></span>
+<span style="font-size:0.75em"><a href="https://jsbin.com/duxudapefu/edit?js,output" target="_blank">demo link</a></span>
 
 ---
 
